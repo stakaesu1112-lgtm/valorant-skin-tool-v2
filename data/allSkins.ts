@@ -32,6 +32,7 @@ export const allSkins: Skin[] = [
 { id: "sakura_vandal", name: "Sakura Vandal" },
 { id: "minima_vandal", name: "Minima Vandal" },
 { id: "velocity_vandal", name: "Velocity Vandal" },
+{ id: "gaias_vandal", name: "ガイアズ・ヴェンジェンスヴァンダル" },
 
 // --- Phantom（ショップ販売されるスキンのみ） ---
 { id: "oni_phantom", name: "Oni Phantom" },
